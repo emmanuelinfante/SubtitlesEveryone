@@ -16,4 +16,4 @@ This repository allows you not only to create subtitles in a completely unlimite
 - Translate your subtitle with DeepL completely free and unlimited, with the help of **[SrtTranslators!](https://pypi.org/project/srtranslator/)**
 - Improve the WhisperX transcription with the help of **[Demucs](https://github.com/facebookresearch/demucs)**, extract the vocals, and no longer have any errors with Vad!
 
-#¿How does SubtitlesEveryone work?
+## ¿How does SubtitlesEveryone work?

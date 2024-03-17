@@ -19,3 +19,6 @@ This repository allows you not only to create subtitles in a completely unlimite
 
 ### Improvements to WhisperX with the help of Demucs 🎷
 We have noticed that WhisperX has very serious errors when VAD is used in oriental languages. This is because VAD cannot differentiate between non-voice sounds and voice, causing it to end up eliminating sections where there is voice. The solution to this is to use Demucs to extract the voice, and with this, the transcription improves significantly, in any language.
+
+### Translators as subtitle translator 
+Originally, Translatros was not created to translate subtitles; however, we adapted the code for subtitle translation, which allows you and anyone else to translate subtitles into many languages, with over 20 translators, and completely free of charge :)

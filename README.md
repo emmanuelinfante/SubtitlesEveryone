@@ -3,7 +3,7 @@
 <h1>SubtitlesEveryone</h1>
 <i>Transcribe Like a Pro, Without Paying a Penny!</i><br><br>
 
-[![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/emmanuelinfante/SubtitlesEveryone/blob/main/SubtitlesForEveryone.ipynb)
+[![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/emmanuelinfante/SubtitlesEveryone/blob/main/SubtitlesEveryone.ipynb)
 [![Licence](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge)](https://github.com/emmanuelinfante/SubtitlesEveryone?tab=MIT-1-ov-file#readme)
 
 </div>

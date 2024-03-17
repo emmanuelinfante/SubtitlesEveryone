@@ -18,4 +18,4 @@ This repository allows you not only to create subtitles in a completely unlimite
 - 🎷 Improve the [WhisperX](https://github.com/m-bain/whisperX) transcription with the help of **[Demucs](https://github.com/facebookresearch/demucs)**, extract the vocals, and no longer have any errors with Vad!
 
 ### Improvements to WhisperX with the help of Demucs
-We have noticed that WhisperX has errors when transcribing oriental languages ​​if the original audio has music in the background or sounds that are not really the voice. This is because VAD cannot differentiate between moments with music and moments with voice, and sometimes it tends to remove segments where there is voice. The solution to this is to use demucs to extract the voice and thus significantly improve the transcription.
+We have noticed that WhisperX has very serious errors when VAD is used in oriental languages. This is because VAD cannot differentiate between non-voice sounds and voice, causing it to end up eliminating sections where there is voice. The solution to this is to use Demucs to extract the voice, and with this, the transcription improves significantly, in any language.

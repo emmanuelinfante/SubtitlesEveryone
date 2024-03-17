@@ -13,4 +13,4 @@
 This repository allows you not only to create subtitles in a completely unlimited and free manner, but also allows you to:
 
 - You can translate your subtitle with more than 20 translators! With the help of **[Translators!](https://pypi.org/project/translators)**
-- Translate your subtitle with DeepL completely free and unlimited, with the help of **[SrtTranslators](https://pypi.org/project/srtranslator/)**
+- Translate your subtitle with DeepL completely free and unlimited, with the help of **[SrtTranslators!](https://pypi.org/project/srtranslator/)**

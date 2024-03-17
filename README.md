@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/emmanuelinfante/SubtitlesEveryone/blob/main/test.png" /><br>
+<img src="https://github.com/emmanuelinfante/SubtitlesEveryone/blob/main/127122328.png" /><br>
 <h1>SubtitlesEveryone</h1>
 <i>Transcribe Like a Pro, Without Paying a Penny!</i><br><br>
 

@@ -10,4 +10,7 @@
 
 ---
 
-"SubtitlesEveryone" is a Google Colab notebook that allows you to create and translate subtitles from (.vtt/.srt) files quickly and with high quality, completely free of charge.
+This repository allows you not only to create subtitles in a completely unlimited and free manner, but also allows you to:
+
+- Translate your subtitle with more than 20 translators with the help of **[Translators!](https://pypi.org/project/translators)**
+- Translate your subtitle with DeepL completely free, with the help of **[SrtTranslators](https://pypi.org/project/srtranslator/)**

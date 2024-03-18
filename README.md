@@ -26,3 +26,17 @@ Originally, Translatros was not created to translate subtitles; however, we adap
 ---
 ## News 🚨
 - Soon, we will upload a video explaining how to properly use the Google Colab notebook! ✨
+
+## **Credits and Special Thanks**
+This notebook combines many free libraries from Github and PyPI to achieve its purpose. Below, I will share what they are:
+
+- [**WhisperX** - Artificial Intelligence for Transcription](https://github.com/m-bain/whisperX)
+- [**Translators** - Library with API for over 10 languages](https://pypi.org/project/translators/)
+- [**Srt** - Necessary for reading .srt files](https://pypi.org/project/srt/)
+- [**Demucs** - For voice extraction](https://pypi.org/project/demucs/)
+- [**Ctranslate2** - Necessary for WhisperX](https://pypi.org/project/ctranslate2/)
+- [**Yt-dlp** - for video downloading](https://pypi.org/project/yt-dlp/)
+- [**Ip-Rotator** - Proxy for APIs](https://pypi.org/project/ip-rotator/)
+- [**Srtranslator** - Subtitle Translation with Deepl](https://pypi.org/project/srtranslator/)
+
+Important Clarification, this notebook also uses its own code for subtitle creation; Translators **was not created to translate subtitles, I had to write the code myself to make it work that way.** Still, I greatly appreciate the team behind all these projects, they are crucial to making this project possible! With nothing more to say, Enjoy this project!

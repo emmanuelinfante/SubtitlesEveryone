@@ -25,7 +25,7 @@ Originally, Translatros was not created to translate subtitles; however, we adap
 
 ## News 🚨
 - Soon, we will upload a video explaining how to properly use the Google Colab notebook! ✨
-- 
+
 ---
 
 ## **Credits and Special Thanks**

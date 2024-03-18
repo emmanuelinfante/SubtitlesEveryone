@@ -23,9 +23,10 @@ We have noticed that WhisperX has very serious errors when VAD is used in orient
 ### Translators as subtitle translator 
 Originally, Translatros was not created to translate subtitles; however, we adapted the code for subtitle translation, which allows you and anyone else to translate subtitles into many languages, with over 20 translators, and completely free of charge 🥳
 
----
 ## News 🚨
 - Soon, we will upload a video explaining how to properly use the Google Colab notebook! ✨
+- 
+---
 
 ## **Credits and Special Thanks**
 This notebook combines many free libraries from Github and PyPI to achieve its purpose. Below, I will share what they are:

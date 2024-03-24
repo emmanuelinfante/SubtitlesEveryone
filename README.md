@@ -12,7 +12,7 @@
 
 This repository allows you not only to create subtitles in a completely unlimited and free manner, but also allows you to:
 
-- 🌍 You can translate your subtitle with more than 20 translators! With the help of **[Translators!](https://pypi.org/project/translators)**
+- 🌍 Translate your subtitle with more than 20 translators! With the help of **[Translators!](https://pypi.org/project/translators)**
 
 - ![](https://github.com/emmanuelinfante/SubtitlesEveryone/blob/main/mini%20deepl.png) Translate your subtitle with DeepL completely free and unlimited, with the help of **[SrtTranslators!](https://pypi.org/project/srtranslator/)**
 - 🎷 Improve the [WhisperX](https://github.com/m-bain/whisperX) transcription with the help of **[Demucs](https://github.com/facebookresearch/demucs)**, extract the vocals, and no longer have any errors with Vad!
@@ -40,4 +40,4 @@ This notebook combines many free libraries from Github and PyPI to achieve its p
 - [**Ip-Rotator** - Proxy for APIs](https://pypi.org/project/ip-rotator/)
 - [**Srtranslator** - Subtitle Translation with Deepl](https://pypi.org/project/srtranslator/)
 
-Important Clarification, this notebook also uses its own code for subtitle creation; Translators **was not created to translate subtitles, I had to write the code myself to make it work that way.** Still, I greatly appreciate the team behind all these projects, they are crucial to making this project possible! With nothing more to say, Enjoy this project!
+Important Clarification, this notebook also uses its own code for subtitle creation; Translators **were not created to translate subtitles, I had to write the code myself to make it work that way.** Still, I greatly appreciate the team behind all these projects, they are crucial to making this project possible! With nothing more to say, Enjoy this project!
